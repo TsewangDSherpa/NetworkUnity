@@ -15,6 +15,7 @@ public class PlayerMovement : NetworkBehaviour
     private void Start()
     {
         
+        
         cubeRenderer = GetComponentInChildren<Renderer>();
     }
 
